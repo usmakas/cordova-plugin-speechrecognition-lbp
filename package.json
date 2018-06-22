@@ -1,0 +1,36 @@
+{
+  "name": "cordova-plugin-speechrecognition-lbp",
+  "version": "1.2.0",
+  "description": "Cordova Plugin for Speech Recognition",
+  "cordova": {
+    "id": "cordova-plugin-speechrecognition-lbp",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usmakas/cordova-plugin-speechrecognition-lbp.git"
+  },
+  "keywords": [
+    "cordova",
+    "speech",
+    "recognition",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Peter Bakondy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/usmakas/cordova-plugin-speechrecognition-lbp/issues"
+  },
+  "homepage": "https://github.com/usmakas/cordova-plugin-speechrecognition-lbp#readme"
+}
